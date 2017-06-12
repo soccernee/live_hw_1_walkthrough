@@ -12,7 +12,7 @@ URL: **heroku-app-url**
 
 ### Required:
 
-* [ ] User must be able to go two pages: Menu, and Contact Us.
+* [X] User must be able to go two pages: Menu, and Contact Us.
 * [X] User can see the address and phone number on the contact us page.
 * [X] User can see a basic google map on the Contact Us page.
 * [ ] User can navigate to a menu page with four sections:
